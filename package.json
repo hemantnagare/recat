@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "09themeswitcher",
   "private": true,
   "version": "0.0.0",
@@ -27,5 +28,10 @@
     "postcss": "^8.5.10",
     "tailwindcss": "^4.2.4",
     "vite": "^8.0.9"
+=======
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+>>>>>>> 07fdf099fbb2a7b88d2f3bc57573b975a8a08a3a
   }
 }
